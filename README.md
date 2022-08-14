@@ -14,7 +14,7 @@ This is an app of movies that are currently trending in the theaters. Users can 
 ## Features
 List of features ready and TODOs for future development
 * Allow user to scroll through list of popular movies
-* Navigate to other pages for user to read what the movie is about
+* Navigate to other pages for user to read a description of the movie
 
 To-do list:
 * Create a welcome page to prompt user to begin looking at trending movies
